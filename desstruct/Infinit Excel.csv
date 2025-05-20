@@ -1,0 +1,98 @@
+﻿Parameter,Value
+Client,Infiniti
+Project Location,Bangalore
+Proposal Id,C497-002
+Project,Warehouse
+Building No.,1
+Option,1
+Revision,0
+Structure application,Warehouse
+Design software,MBS
+Building type,Clear span
+Length in m (o/o of steel),48.174
+Width in m (o/o of steel),29.88
+Eave height in m,8.62
+Roof slope (?:100),Slope: 10:100
+Left end wall bay spacing in m,4@7.47
+Right end wall bay spacing in m,4@7.47
+Side wall bay spacing,6@8.029
+Wall bracing type,Rod bracing
+Roof bracing type,Rod bracing
+Roof sheeting,0.45 mm Aluzinc coated steel panels
+Wall sheeting,0.45 mm Aluzinc coated steel panels
+Doors,6.1x6.1m (2nos.)
+Windows,-
+Block wall,3.05
+Canopy Extension in m,4.5
+Slope,1:10
+Clear height in m,6.6
+Wall Lights (FRP 3.25m x 1m),-
+Skylights (FRP 3.25m x 1m),12
+Turbo Ventilators (600 mm throat diameter),12
+Desing code,MBMA
+Dead Load in kN/m2,0.1
+Live Load in kN/m2,0.575
+Collateral load kN/m2,0.05
+Max wind speed in m/s,39
+Max rainfall intensity in mm/hr,150
+Exposure category,B
+Seismic zone,II (0.1)
+Maximum temperate variation,20 degrees
+Frames,"H/100, L/150"
+Purlins,Span/150
+Girts,Span/120
+Crane beams,Span/600
+Mezzanine beams,Span/240
+Misc,-
+Hot rolled sections grade (Mpa),250
+Cold form sections  grade (Mpa),345
+Primary sections grade (Mpa),345
+Building design condition,Closed
+Minimum web thickness in mm,4
+Minimum flange thickness in mm,5
+Minimum flange width in mm,125
+Minimum web depth in mm,250
+Minimum cold form thickness in mm,1.5
+Sheeting profile width & length in m,1.22 & 9
+Connection bolts grade,high strength machine bolts( ASTM A325 or equivalent)
+Crane Capacity in MT,10
+Crane beam top height in m,6
+Crane span in m,27.45
+Crane running length in m,48.174
+Crane class,II (Normal duty)
+Crane Type,Top running
+Type of Girder,Double
+Bridge Weight in MT,122.4
+Hoist/Trolley Weight in MT,8.4
+Number of Wheels,4
+Wheel Load in MT,82
+Wheel Base in mm,4600
+Location,-
+Loading,-
+Live load in kN/m2,-
+Dead load in kN/m2,-
+Collateral load in kN/m2,-
+Dimensions,-
+Length in m,-
+Width in m,-
+Top of the Mezzanine Floor in m,-
+Depth of mezzanine slab in mm,-
+Deck sheeting thickness,-
+Accessories,
+Staircase Nos.,1
+Type,Double staircase with intermediate landing
+Handrail (1m height ),on the open side of mezzanine
+Cable tray brackets,bracket lenth
+Walkway details,Length in m:      Width in m:       Height in m:        Loading:
+Jack beam,location
+Parttion wall,Length in m:      Width in m:       Height in m:        Location:
+Roof Insulation,
+Wall Insulation,
+Monkey laader,location
+Fascia,Length in m:      Width in m:       Height in m:        
+Gable extension in m,
+Eave extension in m,
+Roof Monitor,Length in m:               Width in m:                 Height in m:
+Cage ladder,NA
+Ridge Ventilators,NA
+Any other,NA
